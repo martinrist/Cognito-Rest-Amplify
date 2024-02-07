@@ -1,0 +1,5 @@
+host     = "database-free-tier.cfezq3hqpqjv.eu-west-1.rds.amazonaws.com"
+port     = "3306"
+username = "adminFreeTier"
+password = "gbe9FAY!xtm-nvq.zuc"
+#secret = "arn:aws:secretsmanager:eu-west-1:123456789012:secret:my-secret-1a2b3c"
